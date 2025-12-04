@@ -1,0 +1,30 @@
+{
+  "name": "AutoApproval Fintech System",
+  "tokens": {
+    "colors": {
+      "primary": {
+        "600": "#2563EB",
+        "700": "#1D4ED8",
+        "50": "#EFF6FF"
+      },
+      "slate": {
+        "900": "#0F172A",
+        "50": "#F8FAFC"
+      }
+    },
+    "borderRadius": {
+      "xl": "0.75rem",    // 12px
+      "2xl": "1rem",      // 16px
+      "3xl": "1.5rem",    // 24px
+      "4xl": "2rem",      // 32px - Used for Cards
+      "5xl": "2.5rem"     // 40px - Used for Containers
+    },
+    "fontFamily": {
+      "sans": "Inter, sans-serif"
+    },
+    "boxShadow": {
+      "card": "0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)",
+      "glow": "0 0 15px rgba(37, 99, 235, 0.5)"
+    }
+  }
+}
